@@ -10,7 +10,7 @@ This project is a simple tool for testing network speed, including upload, downl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/your-username/speedTest.git
 Navigate to the project directory:
 
 cd repository-name
