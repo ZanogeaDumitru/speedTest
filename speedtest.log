@@ -1,0 +1,52 @@
+Ping: 45 ms 
+ Download: {
+  "speed": "23.741567373277107 Mbps",
+  "time": "35.333 seconds",
+  "timeStart": "24/10/2024, 02:01:25",
+  "timeEnd": "24/10/2024, 02:02:00",
+  "bytes": "100 bytes",
+  "host": "url: speedtest.unidata.it"
+} 
+ Upload: {
+  "speed": "2.778788922750762 Mbps",
+  "time": "30.188 seconds",
+  "timeStart": "24/10/2024, 02:02:00",
+  "timeEnd": "24/10/2024, 02:02:30",
+  "bytes": "10 bytes",
+  "host": "https://file.io"
+} 
+ Ping: 36 ms 
+ Download: {
+  "speed": "44.532611350002654 Mbps",
+  "time": "18.837 seconds",
+  "timeStart": "24/10/2024, 02:05:37",
+  "timeEnd": "24/10/2024, 02:05:56",
+  "bytes": "100 MB",
+  "host": "url: speedtest.unidata.it"
+} 
+ Upload: {
+  "speed": "2.77529544101105 Mbps",
+  "time": "30.226 seconds",
+  "timeStart": "24/10/2024, 02:05:56",
+  "timeEnd": "24/10/2024, 02:06:26",
+  "bytes": "10  MB",
+  "host": "https://file.io"
+} 
+ Ping: 36 ms 
+ Download: {
+  "speed": "63.58859915100061 Mbps",
+  "time": "13.192 seconds",
+  "timeStart": "24/10/2024, 02:10:12",
+  "timeEnd": "24/10/2024, 02:10:25",
+  "bytes": "100 MB",
+  "host": "url: speedtest.unidata.it"
+} 
+ Upload: {
+  "speed": "4.215084365924005 Mbps",
+  "time": "199.014 seconds",
+  "timeStart": "24/10/2024, 02:10:25",
+  "timeEnd": "24/10/2024, 02:13:44",
+  "bytes": "100  MB",
+  "host": "https://file.io"
+} 
+ 
